@@ -17,6 +17,7 @@ public class Ustal2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("задание1");
+        System.out.println("задание2");
         /**
          * изменение1
          * изменение2
