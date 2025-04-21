@@ -19,6 +19,7 @@ public class Ustal2 {
         System.out.println("задание1");
         /**
          * изменение1
+         * изменение2
          */
     }
     
