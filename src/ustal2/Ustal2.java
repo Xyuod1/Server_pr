@@ -18,10 +18,13 @@ public class Ustal2 {
         // TODO code application logic here
         System.out.println("задание1");
        System.out.println("задание3");
-        /**
+       System.out.println("задание9"); 
+      
+       /**
          * изменение1
          * изменение2
          */
+        
     }
     
 }
