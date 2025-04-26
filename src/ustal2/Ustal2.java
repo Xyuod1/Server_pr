@@ -22,6 +22,8 @@ public class Ustal2 {
       System.out.println("задание12"); 
      System.out.println("задание12.1"); 
       /**
+      System.out.println("задание12.2"); 
+       /**
          * изменение1
          * изменение2
          разное изменение
